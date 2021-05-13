@@ -1,0 +1,7 @@
+gensim
+keras
+bs4
+nltk
+lxml
+tqdm
+scikit-learn

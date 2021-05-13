@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.ipynb_checkpoints
+RNN/data/movie_reviews.tar.gz
+RNN/data/aclImdb
